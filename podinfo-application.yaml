@@ -24,5 +24,5 @@ spec:
         image:
           tag: 6.0.3
         ui:
-          color: "#74577c"
-          message: "Hello Yukiyoshi!"
+          color: "#745ccc"
+          message: "Hello Yukiyoshi San!"
